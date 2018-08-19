@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.xavier</groupId>
+  <artifactId>spring-boot-starter-fastdfs</artifactId>
+  <versioning>
+    <release>0.0.1-RELEASE</release>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.1-RELEASE</version>
+    </versions>
+    <lastUpdated>20180707033436</lastUpdated>
+  </versioning>
+</metadata>
