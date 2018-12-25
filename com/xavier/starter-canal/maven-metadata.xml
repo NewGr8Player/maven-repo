@@ -3,10 +3,11 @@
   <groupId>com.xavier</groupId>
   <artifactId>starter-canal</artifactId>
   <versioning>
-    <release>0.0.1-REALEASE</release>
+    <release>0.0.2-REALEASE</release>
     <versions>
       <version>0.0.1-REALEASE</version>
+      <version>0.0.2-REALEASE</version>
     </versions>
-    <lastUpdated>20180629030750</lastUpdated>
+    <lastUpdated>20181225060559</lastUpdated>
   </versioning>
 </metadata>
