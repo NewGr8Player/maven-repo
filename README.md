@@ -37,6 +37,6 @@ A personal Maven repository.
 <dependency>
     <groupId>com.xavier</groupId>
     <artifactId>spring-boot-starter-fastdfs</artifactId>
-    <version>0.0.1-RELEASE</version>
+    <version>${version}</version>
 </dependency>
 ```
